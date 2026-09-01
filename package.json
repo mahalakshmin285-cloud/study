@@ -1,0 +1,17 @@
+{
+  "name": "study-assistant-ai-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Study Assistant AI - Android and Web Companion Portal",
+  "scripts": {
+    "build": "node web/build.js",
+    "start": "node web/build.js"
+  },
+  "keywords": [
+    "study-assistant",
+    "ai",
+    "gemini",
+    "android"
+  ],
+  "license": "MIT"
+}

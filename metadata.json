@@ -1,0 +1,6 @@
+{
+  "name": "Study Assistant AI",
+  "description": "Complete AI-powered Study Assistant with AI Chat, PDF & OCR analysis, Flashcards, Quiz generator, Notes, Pomodoro timer, Study planner, and Voice Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
